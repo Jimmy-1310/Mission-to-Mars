@@ -1,3 +1,9 @@
+#repository files
+Mission-to-Mars-Course.ipynb
+Mission-to-Mars.ipynb
+Practice.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
